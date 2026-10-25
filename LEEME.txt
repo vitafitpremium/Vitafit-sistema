@@ -1,0 +1,22 @@
+VITAFIT — APLICACIÓN WEB
+
+PRUEBA LOCAL:
+1. Extrae el ZIP.
+2. Abre index.html con Chrome, Edge o Firefox.
+3. Registra primero la producción en Inventario; luego prueba Registrar venta.
+4. Los registros se guardan en el navegador de ese dispositivo y no se sincronizan entre dispositivos.
+
+PARA OBTENER UN ENLACE PÚBLICO GRATIS CON GITHUB PAGES:
+1. Entra en https://github.com y crea una cuenta o inicia sesión.
+2. Crea un repositorio público llamado vitafit-sistema.
+3. Sube index.html al nivel principal del repositorio.
+4. Abre Settings > Pages.
+5. En Build and deployment selecciona Deploy from a branch, luego main y /(root), y guarda.
+6. Espera a que termine la publicación. Tu enlace tendrá la forma:
+   https://TU-USUARIO.github.io/vitafit-sistema/
+   Cambia TU-USUARIO por tu usuario real de GitHub. El enlace exacto solo se conoce después de publicar.
+
+LIMITACIONES IMPORTANTES:
+- La app funciona y guarda datos localmente en el navegador, pero no usa una base de datos compartida; no sincroniza ventas entre distintos celulares.
+- Precio inicial Bs 15 y costo estimado Bs 7 por botella. Cambia el costo por el real.
+- Ganancia bruta no incluye gastos fijos, mano de obra, transporte, mermas ni impuestos.
